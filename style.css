@@ -112,7 +112,7 @@ i{
 .search{
     height: 25px;
 }
-.navbar{
-    background-color: snow; 
+.grad1{
+    background-image: linear-gradient(white, #F6F6F6); 
     
 }
