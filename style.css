@@ -125,11 +125,12 @@ i{
     
 }
 
-.flexo1{
-    
-    margin-right: 2px;
-    border: 1px solid yellow;
-}
-.flexo2{
+@media screen and (max-width: 960px) {
 
-}
+    body {
+    
+    overflow-x: scroll;
+    
+    }
+    
+    }
