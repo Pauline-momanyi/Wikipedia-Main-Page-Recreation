@@ -1,6 +1,7 @@
 body{
     /* background-color: #f6f6f6 !important; */
     margin-top: 0%;
+    margin-left: 0;
 }
 html, body{
     font-family: sans-serif !important;
@@ -12,9 +13,10 @@ html, body{
     margin-left: 0;
     margin-bottom: 20px;
 }
-.col-sm-3{
+.col-sm-2{
     /* border-right: 1px solid blue; */
     background-color: #f6F6F6;
+    
 }
 .menu1{
     display: flex;
@@ -75,7 +77,6 @@ i{
 .news2{
     background-color: rgba(206, 223, 242, 0.3);
     border: 1px solid #CEDFF2;   
-    margin-left: ;
 }
 .news2 h3{
     background-color: #CEDFF2;
@@ -102,4 +103,16 @@ i{
     display: flex;
     position: absolute;
     right: 10px;
+}
+.grad{
+    background-image: linear-gradient(white, rgb(205, 220, 233));
+    border-width: 1px;
+    border-image: linear-gradient(white, blue);
+}
+.search{
+    height: 25px;
+}
+.navbar{
+    background-color: snow; 
+    
 }
