@@ -132,5 +132,12 @@ i{
     overflow-x: scroll;
     
     }
+}
     
-    }
+#mysearch{
+    position: absolute;
+    top: 9px;
+    left: 322px;
+    
+
+}
